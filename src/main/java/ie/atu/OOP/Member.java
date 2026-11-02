@@ -8,6 +8,7 @@ public class Member
 
     public Member(String memberId, String membername, int memberage)
     {
+
         this.memberId=memberId;
         this.membername=membername;
         this.memberage=memberage;
