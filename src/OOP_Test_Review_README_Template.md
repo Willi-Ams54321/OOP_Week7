@@ -3,9 +3,9 @@
 ## 1. My Original Examination Grade
 
 ### Task 1 — /40
-**My mark:**
+My mark: 6
 
-**Why I awarded this mark:**
+Why I awarded this mark: i did't use any getters and i think my scanner is wrong.
 
 ### Task 2 — /40
 **My mark:**
