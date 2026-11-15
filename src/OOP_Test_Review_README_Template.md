@@ -8,9 +8,9 @@ My mark: 9
 Why I awarded this mark: Although I was able to declare private fields such as memberId, name and age, my scanner is wrong and doesn't work at all.
 
 ### Task 2 — /40
-My mark:
+My mark: 3
 
-**Why I awarded this mark:**
+Why I awarded this mark: All I did was set up the first line of code to set up an array, in an attempt to add a second member. The rest of the task was not attempted. 
 
 ### Task 3 — /20
 **My mark:**
