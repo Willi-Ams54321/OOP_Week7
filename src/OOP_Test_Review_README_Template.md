@@ -13,11 +13,11 @@ My mark: 3
 Why I awarded this mark: All I did was set up the first line of code to set up an array, in an attempt to add a second member. The rest of the task was not attempted. 
 
 ### Task 3 — /20
-**My mark:**
+My mark:0
 
-**Why I awarded this mark:**
+Why I awarded this mark: Task 3 was not attempted at all.
 
-**Total self-assessed grade:** /100
+Total self-assessed grade: 11/100
 
 ## 2. Corrections and Improvements
 
