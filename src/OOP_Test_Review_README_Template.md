@@ -3,12 +3,12 @@
 ## 1. My Original Examination Grade
 
 ### Task 1 — /40
-My mark: 6
+My mark: 9
 
-Why I awarded this mark: i did't use any getters and i think my scanner is wrong.
+Why I awarded this mark: Although I was able to declare private fields such as memberId, name and age, my scanner is wrong and doesn't work at all.
 
 ### Task 2 — /40
-**My mark:**
+My mark:
 
 **Why I awarded this mark:**
 
