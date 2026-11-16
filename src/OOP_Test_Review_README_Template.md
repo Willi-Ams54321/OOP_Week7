@@ -24,18 +24,22 @@ Total self-assessed grade: 11/100
 Describe two or three important problems you identified
 in your original code. Explain what you changed and
 why it works now.
+First problem was missing task 3, followed by the fact that I was also missing  a proper array method and to fixed the I went back and had a look at
+at most of my previous labs and had an idea of how to fix these mistakes.
 
 ## 3. Reflection
 
-**What did you understand during the examination
-but struggle to implement?**
+What did you understand during the examination
+but struggle to implement?
+The array list
 
-**What was the most important thing you learned
-from correcting your code?**
+What was the most important thing you learned
+from correcting your code?
+The removal method
 
 **What would you do differently in your next
 coding test?**
-
+I would approach it differently, first dealing with the methods I know well and can execute and later focus on what I could have barely remembered
 ---
 
 ## Review lab assessment and mark recovery
