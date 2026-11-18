@@ -27,4 +27,11 @@ public class Member
         return memberage;
     }
 
+    public void displayDetails()
+    {
+        System.out.println(memberId);
+        System.out.println(membername);
+        System.out.println(memberage);
+    }
+
 }
