@@ -2,18 +2,17 @@ package ie.atu.OOP;
 
 public class Member
 {
-    private final String memberId;
-    private final String membername;
-    private final int memberage;
+    //Task 1
+    private String memberId;
+    private String membername;
+    private int memberage;
 
     public Member(String memberId, String membername, int memberage)
     {
-
         this.memberId=memberId;
         this.membername=membername;
         this.memberage=memberage;
     }
-
 
     public String getMemberId()
     {
@@ -27,6 +26,5 @@ public class Member
     {
         return memberage;
     }
-
 
 }
